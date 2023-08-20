@@ -1,7 +1,7 @@
 """
 Created June 2023 by Tanner Hammond
 Python ver. 3.9.16
-This code is untested
+This code is partially untested
 """
 
 #Install pip and Conda
