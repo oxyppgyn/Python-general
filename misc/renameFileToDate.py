@@ -1,5 +1,6 @@
 """
-Created July 2023 by Tanner Hammond
+Created by: Tanner Hammond
+Date: July 2023 
 Python ver. 3.9.16
 """
 
