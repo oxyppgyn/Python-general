@@ -1,2 +1,4 @@
 # Python-General
-This repository contains general python scripting tools that do not fit with a single project.
+General Python scripts that do not fit within another project. 
+
+Not all of the scripts here were originally created by me. Original creators are credited within `.py` files or in `README` files when applicable. 
