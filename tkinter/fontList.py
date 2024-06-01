@@ -1,7 +1,7 @@
 """
 NOT MY ORIGINAL SCRIPT. Created by jimmiesrustled on stackoverflow.
 Link: https://stackoverflow.com/questions/39614027/list-available-font-families-in-tkinter
-Description: Outputs all font types available by default in tkinter.
+Description: Outputs all font types available by default in tkinter. Clicking on a font copies it to the clipboard for easy pasting to a script.
 """
 
 from tkinter import *
