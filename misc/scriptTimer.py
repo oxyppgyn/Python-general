@@ -47,10 +47,10 @@ def scriptTimer(script,iterations=1,params={},variables=[]):
 					outDict['Error'].append(type(e).__name__)
 					if params != {}:
 						for var in params:
-								try:
-									outDict[var].append(locals()[var])
-								except:
-									outDict[var].append('<no value>')
+							try:
+								outDict[var].append(locals()[var])
+							except:
+								outDict[var].append('<no value>')
 					if variables != []:
 						for var in variables:
 							try:
