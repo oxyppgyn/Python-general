@@ -2,7 +2,7 @@
 """
 Created by: Tanner Hammond
 Date: June 2024
-Python ver. 3.9.16
+Python ver. 3.11.8
 
 Parameters:
 script: Path to other script you will be testing. Can be a full or partial path.
