@@ -10,6 +10,8 @@ Iterations: Number of times to run the script for each condition defined in `par
 params: Dictionary with values for different field values to test. Keys should be object names, with a list of values to iterate through. Multiple objects can be used.
 variables: Variables from the other script to track in the output dictionary.
 
+Notes:
+- Before running, delete/comment out lines in the target script that declare objects in `params`.
 """
 
 def scriptTimer(script,iterations=1,params={},variables=[]):
