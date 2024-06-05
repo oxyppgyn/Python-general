@@ -11,3 +11,4 @@ Not all of the scripts here were originally created by me. Original creators are
 ### misc
 - `hashDirectoryFiles` - Create hashes for all files in a folder and output to a `.txt` file. Useful for finding duplicate files in one or more folders.
 - `renameFileToDate` - Rename files in a folder to the date shown in file explorer (date format: YYYY-MM-DD HH-MM-SS).
+- `scriptTimer` - Configurable timer for scripts. Also useful for finding errors with various object conditions. Options for multiple iterations, setting different parameters per iteration, and tracking outputs of specific variables in the target script.
